@@ -81,7 +81,7 @@ class Sorter implements Runnable
 {
    /**
     * Constructs a Sorter.
-    * @param values the array to be sorted
+    
     * @param comp the component on which to display the sorting progress
     */
    public Sorter(ArrayComponent comp)
